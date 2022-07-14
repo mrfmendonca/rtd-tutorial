@@ -1,7 +1,9 @@
 Welcome to Lumache's documentation!
 ===================================
 
-V 1.0.x !!!!
+V 2.0.x
+
+Look at this amazing new feature: <VOID>
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
