@@ -1,7 +1,7 @@
 Welcome to Lumache's documentation!
 ===================================
 
-V 2.0.x
+V 2.1.x
 
 Look at this amazing new feature: <VOID>
 
